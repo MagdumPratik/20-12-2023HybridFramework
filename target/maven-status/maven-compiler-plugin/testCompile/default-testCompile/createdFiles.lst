@@ -1,0 +1,6 @@
+TestCase\TC_01_LoginTestCase.class
+Utilities\XLUtils.class
+TestCase\BaseClass.class
+Utilities\ConfigReader.class
+PageObject\LoginPage.class
+TestCase\TC_02_DATTestCase.class
